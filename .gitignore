@@ -1,0 +1,5 @@
+*.key
+*.crt
+tmpl/deploy.j2
+deploy/deploy.yaml
+self-signed.md
